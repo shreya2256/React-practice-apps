@@ -83,11 +83,12 @@ import React from 'react'
 
 //Event handling in React
 // Key Differences 
-// HTML	                               React
-// onclick="myFunc()"	                 onClick={myFunc}
-// Uses lowercase like onclick	       Uses camelCase like onClick
-// Can call strings or JS	             Needs a function reference
-// Default action allowed	             Often needs event.preventDefault()
+// HTML	                           ||    React
+//                                 ||
+// onclick="myFunc()"	           ||     onClick={myFunc}
+// Uses lowercase like onclick	   ||   Uses camelCase like onClick
+// Can call strings or JS	       ||    Needs a function reference
+// Default action allowed	       ||    Often needs event.preventDefault()
 
 // Common Event Types
 // Event	=>Description
