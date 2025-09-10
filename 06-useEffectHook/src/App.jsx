@@ -116,6 +116,7 @@ import './App.css'
 // export default App;
 
 //Example:Add & Remove Event Listener
+//Just flex the size of browser than we will get the output in console
 
 // function App() {
 //   useEffect(() => {
