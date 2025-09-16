@@ -32,7 +32,7 @@ import Navigation from "./Containers/Navigation";
 //Example:useParams — Access URL Parameters => Extracts route parameters from the URL.
 
 //Example 1:
-
+//for this example use Components Folder
 // function App() {
 //   return (
 //     <BrowserRouter>
