@@ -42,7 +42,7 @@ import Counter from './features/counter/Counter';
 // │       └── Counter.jsx
 // ├── App.jsx
 // └── main.jsx
-
+//check main.jsx once, where component {store}is wrapped with provider
 
 
 function App() {
