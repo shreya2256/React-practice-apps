@@ -94,7 +94,7 @@ import { useState, useEffect, useRef } from "react";
 // export default App;
 
 //Example:Count Clicks Without Causing Re-Renders
-// Since we don’t need the UI to re-render on every click, we store count in useRe
+// Since we don’t need the UI to re-render on every click, we store count in useRef
 //check console in browser for the output
 // function App() {
 //   const clickCount = useRef(0);
